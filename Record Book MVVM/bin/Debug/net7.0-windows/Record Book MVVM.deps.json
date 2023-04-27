@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Record Book MVVM/1.0.0": {
+        "runtime": {
+          "Record Book MVVM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Record Book MVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
